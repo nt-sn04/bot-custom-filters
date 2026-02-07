@@ -1,4 +1,4 @@
-from telegram.ext import BaseFilter, CallbackContext
+from telegram.ext import BaseFilter
 from telegram import Update
 
 
